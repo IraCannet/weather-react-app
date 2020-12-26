@@ -16,6 +16,7 @@ function App() {
         >
           Learn React
         </a>
+              <p>Coded by <a href="https://github.com/IraCannet/weather-react-app">Ira</a></p>
       </header>
     </div>
   );
